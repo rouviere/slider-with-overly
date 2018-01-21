@@ -1,2 +1,2 @@
-# slider-with-overly
+# slider-with-overlay
 jQuery Slider with text overlay
